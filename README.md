@@ -38,6 +38,7 @@
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Trello](https://img.shields.io/badge/trello-%230066FF.svg?style=for-the-badge&logo=trello&logoColor=white)
+![J2EE](https://img.shields.io/badge/j2ee-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 
 # 🐍 GitHub Contributions Snake Animation:
 <img src="https://github.com/Ghofrane7469/Ghofrane7469/blob/output/snake.svg" alt="GitHub Contributions Snake Animation"/>
